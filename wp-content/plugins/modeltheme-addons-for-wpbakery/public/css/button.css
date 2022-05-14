@@ -1,0 +1,62 @@
+/*General*/
+.mt-addons_button_holder .mt-addons_button{
+    font-size: 1em;
+    transition: all 250ms ease 0s;
+    -webkit-transition: all 250ms ease 0s;
+    display: inline-block;
+}
+.mt-addons_button_holder.inline-block {
+    display: inline-block;
+}
+
+/*Button Shapes*/
+.mt-addons_button_holder.btn-rounded .mt-addons_button {
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.mt-addons_button_holder.btn-round .mt-addons_button {
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+}
+.mt-addons_button_holder.btn-square .mt-addons_button {
+    border-radius: 0px;
+    -webkit-border-radius: 0px;
+}
+
+/*Button Sizes*/
+.mt-addons_button_holder .mt-addons_button.mt-addons-btn-sm {
+    padding: 5px 15px;
+}
+.mt-addons_button_holder .mt-addons_button.mt-addons-btn-medium {
+    padding: 10px 25px;
+}
+.mt-addons_button_holder .mt-addons_button.mt-addons-btn-lg {
+    padding: 15px 35px;
+}
+.mt-addons_button_holder .mt-addons_button.mt-addons-btn-extra-large {
+    padding: 18px 42px;
+}
+
+
+/*Theme Default Button rules*/
+/*default*/
+.bottom-components .component a:hover, .bottom-components .component a:hover, .bottom-components .component a:hover, .woocommerce-page .vc_col-md-3 .overlay-components .component a:hover, .vc_col-md-4 .overlay-components .component a:hover, .no-sidebar .vc_col-md-3 .overlay-components .component a:hover, .overlay-components .component.add-to-cart a, .bottom-components .component.add-to-cart a, .woocommerce_categories2 .products .component .yith-wcwl-wishlistexistsbrowse.show a, body .tp-bullets.preview1 .bullet, div#dokan-content .overlay-components .component a:hover, body #mega_main_menu li.default_dropdown .mega_dropdown > li > .item_link:hover, body #mega_main_menu li.widgets_dropdown .mega_dropdown > li > .item_link:hover, body #mega_main_menu li.multicolumn_dropdown .mega_dropdown > li > .item_link:hover, body .dokan-settings-content .dokan-settings-area a.dokan-btn-info, .btn-sticky-left, .dokan-btn-info, body #mega_main_menu li.grid_dropdown .mega_dropdown > li > .item_link:hover, .custom_iffiliate button, .woocommerce_categories.grid th, .iffiliate_shortcode_cause .button-content a, .domain.woocommerce_categories .button-bid a, .domain-but button, .woocommerce_simple_domain .button-bid a, .mt-product-search .menu-search button.form-control, .woocommerce ul.products li.product .bottom-components-list .component.compare a.compare.button:hover, .mt-mega-menu-shortcode h3.heading-title, .iffiliate_shortcode_blog .image_top .post-read-more i, .modeltheme-product-wrapper a.compare.button:hover, header.page-header-404 a.vc_button_404, .lvca-accordion.lvca-style1 .lvca-panel .lvca-panel-title, .lrm-form button, .lrm-form button[type=submit], .lrm-user-modal-container .lrm-switcher a, .lvca-pricing-table .lvca-purchase a, .iffiliate_shortcode_blog a.rippler.rippler-default, .product-badge, .affiliate-wrapper .affiliate_btn a, .affiliate-reservation-wrapper a.rippler.rippler-default, .full-width-part .more-link, .mt_simple_themes .mt-theme-wrapper a.button, .single-product .single-v2 .buy-button, .bitwallet-single-point > a, form#iffiliatesearch button.btn.submit-search-domain, form#iffiliatesearch button.btn.submit-search-ride-sharing, .pricing__item.pricing__item--premium .package__recommended, .pricing__item.pricing__item--premium .pricing__price, .pricing-section-v2 .pricing__item--premium .pricing__feature-list, .pricing__item a.pricing__action:hover, .woocommerce.single-product div.product form.cart .button, .gaming-btn .button-winona.btn.btn-medium, .modeltheme-modal input.submit, .mt-tabs .content-wrap a.tabs_button:hover, .crypto-btn .button-winona.btn.btn-medium,
+.mt-addons_button_holder.mt-addons_button--theme_default a{
+    background: #00ADCD !important;
+    padding: 0 25px !important;
+    text-transform: uppercase;
+    font-weight: 500;
+    line-height: 39px;
+    border: 2px solid transparent;
+    transition: all 250ms ease-in-out;
+}
+/*hover*/
+.mt-addons_button_holder.mt-addons_button--theme_default a:hover,
+.flip-clock-wrapper ul li a div div.inn, .featured_product_shortcode span.amount, .featured_product_shortcode .featured_product_button:hover, .custom_iffiliate button:hover, .iffiliate-countdown strong, .categories_shortcode .category.active span, .categories_shortcode .category:hover span, .woocommerce_categories.grid td.product-title a, .woocommerce_categories.grid td.add-cart a, .woocommerce_categories.list span.amount, .cd-tab-filter a:hover, .no-touch .cd-filter-block h4:hover, .cd-gallery .woocommerce-title-metas a:hover, .cd-tab-filter a.selected, .no-touch .cd-filter-trigger:hover, .woocommerce .woocommerce-widget-layered-nav-dropdown__submit:hover, .woocommerce .woocommerce-widget-layered-nav-list .woocommerce-widget-layered-nav-list__item a:hover, .mt_products_slider .woocommerce-title-metas h3 a:hover, .iffiliate_shortcode_cause h3 a:hover, .mt_products_slider .button-bid a:hover, .header-v3 .menu-products .shop_cart:hover, .domain.woocommerce_categories .archive-product-title a:hover, .custom-btn button:hover, .modeltheme_products_carousel .modeltheme-title-metas a:hover, .modeltheme_products_carousel.owl-theme .owl-controls .owl-buttons div, .modeltheme_products_simple h3.modeltheme-archive-product-title a:hover, .menu-search i.fa.fa-search, .sale_banner .sale_banner_holder.right span.read-more:hover, .modeltheme-product-wrapper .modeltheme-archive-product-title a:hover, .single-product .product p.price span, .newsletter-footer input.submit:hover, .woocommerce button.button:disabled:hover, .woocommerce button.button:disabled[disabled]:hover, .full-width-part .more-link:hover, header.page-header-404 a.vc_button_404:hover, .form-submit input:hover, .lrm-form button[type=submit]:hover, .page-template-template-blog-2 .article-detail-meta.post-date, #commentform .form-submit button:hover, .products_category_vertical_shortcode_holder:hover .heading a, .single-product .single-v2 .product-sales, .single-product .single-v2 .buy-button:hover a, .mt_simple_themes .mt-theme-wrapper h3 a:hover, .mt_simple_themes .mt-theme-wrapper a.button:hover, .header-v4 .header-top-contact-method i, .woocommerce.single-product div.product form.cart .button:hover, .single-course-wrapper .mt-price, .mt-categories-content li.single-category i, .iffiliate_shortcode_blog .image_top .boxed-shadow p.text-center, .single-course-wrapper p.mt-title a:hover, .testimonial01-img-holder.style2 p.position-test, .pricing-table.style_2.recommended small, .pricing-table.style_2.recommended .price {
+    color: #00ADCD !important;
+    background: #fff !important;
+}
+.mt-addons_button_holder.mt-addons_button--theme_default a:hover,
+.sidebar-content .widget-title::before, .dokan-widget-area .widget-title::before, .dokan-settings-content .dokan-settings-area a.dokan-btn-info, .dokan-btn-info, input[type="submit"].dokan-btn-theme, a.dokan-btn-theme, .dokan-btn-theme, .header-v3 .menu-products .shop_cart, .lvca-heading.lvca-alignleft h3.lvca-title::after, .dokan-category-menu, .header_mini_cart .button.wc-forward, .header_mini_cart .button.checkout, .woocommerce ul.products li.product .bottom-components-list .button, .woocommerce ul.products li.product .bottom-components-list .component.compare a.compare.button, .modeltheme-product-wrapper a.button, .lvca-pricing-table .lvca-top-header, .form-submit input, .woocommerce button.button.alt, .iffiliate_shortcode_blog .image_top .post-dates, .woocommerce #respond input#submit, .woocommerce a.button, #commentform .form-submit button, .no-results input[type="submit"], .affiliate-wrapper .affiliate_btn a, .affiliate-reservation-wrapper a.rippler.rippler-default, .single-product .single-v2 .buy-button, .mt_simple_themes .mt-theme-wrapper a.button, .header-v4 .navbar-default .navbar-toggle {
+    border-color: #00ADCD !important;
+}

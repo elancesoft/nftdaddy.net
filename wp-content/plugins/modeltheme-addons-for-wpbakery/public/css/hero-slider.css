@@ -1,0 +1,29 @@
+.mt-addons-hero-slider-background{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right top;
+	height: 500px;
+}
+.mt-addons-hero-slider-holder.inline-block{
+    display: inline-block;
+}
+.mt-addons-hero-slider-button {
+    margin: 35px 20px 0px 0px;
+    padding: 16px 40px 15px 40px;
+}
+.mt-addons-hero-slider-button.round {
+    border-radius: 30px;
+} 
+.mt-addons-hero-slider-bg{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right top;
+}

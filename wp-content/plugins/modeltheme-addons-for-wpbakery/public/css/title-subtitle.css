@@ -1,0 +1,26 @@
+.mt-addons-title-section {
+    margin-bottom: 0px;
+}
+.mt-addons-title-subtile {
+    margin-bottom: 25px;
+}
+.mt-addons-title-svg-border {
+    width: 100%;
+    height: 23px;
+    margin: 5px 0 10px;
+}
+.mt-addons-subtitle-section.text-right,
+.mt-addons-subtitle-section.text-left {
+    width: auto;
+}
+.mt-addons-subtitle-section {
+    margin-top: 7px;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 5px;
+}
+.mt-addons-title-border {
+    height: 4px;
+    margin: 5px 0 25px;
+    width: 100%;
+}

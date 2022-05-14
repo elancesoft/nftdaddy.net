@@ -1,0 +1,29 @@
+.mt-addons-client-image {
+  display: block;
+  text-align: center;
+}
+.mt-addons-client-image-item {
+    padding-bottom: 70px;
+}
+.mt-addons-clients-image-holder {
+    padding: 0 15px;
+}
+.mt-addons-clients-carusel .owl-controls .owl-pagination{
+  margin-top: 0px;
+  text-align: center;
+  position: absolute;
+  top: -25px;
+  width: 100%;
+}
+.mt-addons-clients-carusel .owl-controls .owl-buttons .owl-prev {
+    left: 0px;
+    top: 35px;
+    position: absolute;
+    color: #000000;
+    font-size: 22px;
+    background: transparent;
+}
+.mt-addons-clients-carusel img{
+  margin: 0 auto;
+  width: auto !important;
+}

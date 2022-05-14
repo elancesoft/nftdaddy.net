@@ -1,0 +1,1012 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-15 15:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: init.php:258
+msgid "Clear"
+msgstr ""
+
+#: init.php:259
+msgid "Default"
+msgstr ""
+
+#: init.php:260
+msgid "Select Color"
+msgstr ""
+
+#: init.php:261
+msgid "Current Color"
+msgstr ""
+
+#: init.php:288
+msgid "Select / Deselect All"
+msgstr ""
+
+#: init.php:1179
+msgid "Save"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_field.php:459
+msgid "Add Group"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_field.php:460
+msgid "Remove Group"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_types.php:306 helpers/cmb_Meta_Box_types.php:706
+#: helpers/cmb_Meta_Box_types.php:768
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:204
+msgid "Remove"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_types.php:601 helpers/cmb_Meta_Box_types.php:635
+msgid "No terms"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_types.php:674 helpers/cmb_Meta_Box_types.php:728
+msgid "Add or Upload File"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_types.php:695 helpers/cmb_Meta_Box_types.php:760
+msgid "Remove Image"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_types.php:706 helpers/cmb_Meta_Box_types.php:768
+msgid "File:"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_types.php:706 helpers/cmb_Meta_Box_types.php:768
+msgid "Download"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/extension_wbc_importer.php:183
+msgid "Demo Already Imported"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/extension_wbc_importer.php:203
+#: inc/demo-importer-v2/extensions/wbc_importer/extension_wbc_importer.php:204
+msgid "Demo Importer"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/extension_wbc_importer.php:222
+msgid "Works best to import on a new install of WordPress"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/parsers.php:42
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/parsers.php:72
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/parsers.php:84
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/parsers.php:89
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/parsers.php:315
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/parsers.php:533
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/radium-importer.php:499
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:122
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:159
+msgid "Imported"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:132
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:141
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:192
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:196
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:197
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:213
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:238
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:265
+msgid ""
+"To make it simpler for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site, such as your primary administrator account."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:284
+msgid "Submit"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:309
+msgid "or create new user with login name:"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:312
+msgid "as a new user:"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:322
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:332
+msgid "- Select -"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:386
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:438
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:483
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:538
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:764
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:668
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:730
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:904
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:911
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:974
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:987
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1026
+msgid "Could not create temporary file."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1045
+#, php-format
+msgid "Request failed due to an error: %1$s (%2$s)"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1061
+#, php-format
+msgid "Remote server returned the following unexpected result: %1$s (%2$s)"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1073
+msgid "Remote server did not respond"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1080
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1085
+msgid "Downloaded file has incorrect size"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1091
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1123
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1138
+msgid "The uploaded file could not be moved"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1250
+msgid "Import WordPress"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1257
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1272
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1273
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:98
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:120
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:135
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:157
+msgid "Import Demo"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:102
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:139
+msgid "Demo Imported"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:120
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:123
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:157
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:160
+msgid "Please Wait..."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:124
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:161
+msgid "Re-Import"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:173
+msgid "No Demo Data Provided"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:24
+msgid "MT Mega Menus"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:25
+#: inc/mega-menu/modeltheme-mega-menu.php:26
+msgid "MT Mega Menu"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:27
+msgid "All Mega Menus"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:28
+msgid "Add New Mega Menu"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:29
+msgid "Edit Mega Menu"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:30
+msgid "New Mega Menu"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:31
+msgid "View Mega Menu"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:32
+msgid "Search Mega Menus"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:33
+msgid "No mega menus found"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:34
+msgid "No mega menus found in trash"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:36
+msgid "A utility post type used to control contents within mega menu dropdowns"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:58
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:62
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:78
+msgid "sub item"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:93
+msgid "Move up"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:106
+msgid "Move down"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:108
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:110
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:119
+msgid "URL"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:126
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:132
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:139
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:144
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:150
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:156
+msgid "Description"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:158
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:164
+msgid "Mega Menu:"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:169
+msgid "-- None --"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:173
+msgid "The mega menu to display where mega menus are enabled."
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:179
+msgid "Move"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:180
+msgid "Up one"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:181
+msgid "Down one"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:184
+msgid "To the top"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:191
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:205
+msgid "Cancel"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:481
+msgid "Testimonials Custom Options"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:488 inc/metaboxes/metaboxes.php:514
+msgid "Job Position"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:489
+msgid "Enter testimonial author job position"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:494
+msgid "Company"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:495
+msgid "Enter testimonial author company name"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:507
+msgid "Members Custom Options"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:519
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:524
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:529
+msgid "Google Plus URL"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:534
+msgid "instagram URL"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:590
+msgid "Page Custom Options"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:607
+msgid "Rewrite Header Theme Options?"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:608
+msgid "If \"Yes\" - Page Options will rewrite Theme Options"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:612 inc/metaboxes/metaboxes.php:623
+#: inc/metaboxes/metaboxes.php:702
+msgid "Yes"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:613 inc/metaboxes/metaboxes.php:624
+#: inc/metaboxes/metaboxes.php:703
+msgid "No"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:618
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:619
+msgid "If \"Yes\" - Navigation will go over Header"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:629
+msgid "Custom Logo"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:630
+msgid "Import a custom logo for this page only"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:646
+msgid "Select Revolution Slider"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:647 inc/metaboxes/metaboxes.php:655
+#: inc/metaboxes/metaboxes.php:677 inc/metaboxes/metaboxes.php:690
+msgid "Select an option"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:654
+msgid "Page title-breadcrumbs"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:659
+msgid "Off - Hide title-breadcrumbs area"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:660
+msgid "On - Show title-breadcrumbs area"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:676
+msgid "Page top/bottom spacing"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:681
+msgid "High Padding"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:682
+msgid "No Padding"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:683
+msgid "No Padding top"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:684
+msgid "No Padding bottom"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:689
+msgid "Select Sidebar"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:697
+msgid "Rewrite Global Page Skin Color Theme Option?"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:698
+msgid "If \"Yes\" - This Page Option will rewrite Theme Options"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:708
+msgid "Global Page Skin First Gradient Color"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:709 inc/metaboxes/metaboxes.php:716
+#: inc/metaboxes/metaboxes.php:723
+msgid "Replaces theme options main color"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:715
+msgid "Global Page Skin Second Gradient Color"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:722
+msgid "Global Page Skin Color - Hover"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:738
+msgid "Disable Footer Row #1"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:739
+msgid "Check to disable footer row 1 (if enabled from Theme Options Panel)"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:744
+msgid "Disable Footer Row #2"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:745
+msgid "Check to disable footer row 2 (if enabled from Theme Options Panel)"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:750
+msgid "Disable Footer Row #3"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:751
+msgid "Check to disable footer row 3 (if enabled from Theme Options Panel)"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:756
+msgid "Disable Footer Bottom Bar"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:757
+msgid "Check to disable footer bottom copyright bar"
+msgstr ""
+
+#: inc/post-types/post-types.php:8 inc/post-types/post-types.php:22
+msgid "Testimonials"
+msgstr ""
+
+#: inc/post-types/post-types.php:23
+msgid "Testimonial"
+msgstr ""
+
+#: inc/post-types/post-types.php:24
+msgid "MT Testimonials"
+msgstr ""
+
+#: inc/post-types/post-types.php:25
+msgid "Add Testimonial"
+msgstr ""
+
+#: inc/post-types/post-types.php:26
+msgid "Add New Testimonial"
+msgstr ""
+
+#: inc/post-types/post-types.php:27 inc/post-types/post-types.php:70
+#: inc/post-types/post-types.php:152
+msgid "Edit"
+msgstr ""
+
+#: inc/post-types/post-types.php:28
+msgid "Edit Testimonial"
+msgstr ""
+
+#: inc/post-types/post-types.php:29
+msgid "New Testimonial"
+msgstr ""
+
+#: inc/post-types/post-types.php:30 inc/post-types/post-types.php:31
+msgid "View Testimonial"
+msgstr ""
+
+#: inc/post-types/post-types.php:32
+msgid "Search Testimonials"
+msgstr ""
+
+#: inc/post-types/post-types.php:33
+msgid "No Testimonials Found"
+msgstr ""
+
+#: inc/post-types/post-types.php:34
+msgid "No Testimonials Found in Trash"
+msgstr ""
+
+#: inc/post-types/post-types.php:35
+msgid "Parent Testimonial"
+msgstr ""
+
+#: inc/post-types/post-types.php:51 inc/post-types/post-types.php:65
+msgid "Members"
+msgstr ""
+
+#: inc/post-types/post-types.php:66
+msgid "Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:67
+msgid "MT Members"
+msgstr ""
+
+#: inc/post-types/post-types.php:68
+msgid "Add Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:69
+msgid "Add New Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:71
+msgid "Edit Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:72
+msgid "New Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:73 inc/post-types/post-types.php:74
+msgid "View Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:75
+msgid "Search Members"
+msgstr ""
+
+#: inc/post-types/post-types.php:76
+msgid "No Members Found"
+msgstr ""
+
+#: inc/post-types/post-types.php:77
+msgid "No Members Found in Trash"
+msgstr ""
+
+#: inc/post-types/post-types.php:78
+msgid "Parent Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:94
+msgctxt "Taxonomy General Name"
+msgid "Categories"
+msgstr ""
+
+#: inc/post-types/post-types.php:95
+msgctxt "Taxonomy Singular Name"
+msgid "Members"
+msgstr ""
+
+#: inc/post-types/post-types.php:96
+msgid "Members Categories"
+msgstr ""
+
+#: inc/post-types/post-types.php:97
+msgid "All Items"
+msgstr ""
+
+#: inc/post-types/post-types.php:98
+msgid "Parent Item"
+msgstr ""
+
+#: inc/post-types/post-types.php:99
+msgid "Parent Item:"
+msgstr ""
+
+#: inc/post-types/post-types.php:100
+msgid "New Item Name"
+msgstr ""
+
+#: inc/post-types/post-types.php:101
+msgid "Add New Item"
+msgstr ""
+
+#: inc/post-types/post-types.php:102
+msgid "Edit Item"
+msgstr ""
+
+#: inc/post-types/post-types.php:103
+msgid "Update Item"
+msgstr ""
+
+#: inc/post-types/post-types.php:104
+msgid "View Item"
+msgstr ""
+
+#: inc/post-types/post-types.php:105
+msgid "Separate items with commas"
+msgstr ""
+
+#: inc/post-types/post-types.php:106
+msgid "Add or remove items"
+msgstr ""
+
+#: inc/post-types/post-types.php:107
+msgid "Choose from the most used"
+msgstr ""
+
+#: inc/post-types/post-types.php:108
+msgid "Popular Items"
+msgstr ""
+
+#: inc/post-types/post-types.php:109
+msgid "Search Items"
+msgstr ""
+
+#: inc/post-types/post-types.php:110
+msgid "Not Found"
+msgstr ""
+
+#: inc/post-types/post-types.php:133 inc/post-types/post-types.php:147
+msgid "Clients"
+msgstr ""
+
+#: inc/post-types/post-types.php:148
+msgid "Client"
+msgstr ""
+
+#: inc/post-types/post-types.php:149
+msgid "MT Clients"
+msgstr ""
+
+#: inc/post-types/post-types.php:150
+msgid "Add Client"
+msgstr ""
+
+#: inc/post-types/post-types.php:151
+msgid "Add New Client"
+msgstr ""
+
+#: inc/post-types/post-types.php:153
+msgid "Edit Client"
+msgstr ""
+
+#: inc/post-types/post-types.php:154
+msgid "New Client"
+msgstr ""
+
+#: inc/post-types/post-types.php:155 inc/post-types/post-types.php:156
+msgid "View Client"
+msgstr ""
+
+#: inc/post-types/post-types.php:157
+msgid "Search Clients"
+msgstr ""
+
+#: inc/post-types/post-types.php:158
+msgid "No Clients Found"
+msgstr ""
+
+#: inc/post-types/post-types.php:159
+msgid "No Clients Found in Trash"
+msgstr ""
+
+#: inc/post-types/post-types.php:160
+msgid "Parent Client"
+msgstr ""
+
+#: inc/widgets/widgets.php:11
+msgid "enefti - Social icons widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:93 inc/widgets/widgets.php:224
+msgid "Social icons"
+msgstr ""
+
+#: inc/widgets/widgets.php:99 inc/widgets/widgets.php:230
+#: inc/widgets/widgets.php:300 inc/widgets/widgets.php:407
+#: inc/widgets/widgets.php:528
+msgid "Widget Title:"
+msgstr ""
+
+#: inc/widgets/widgets.php:102 inc/widgets/widgets.php:233
+msgid "* Social Network account must be set from enefti - Theme Panel."
+msgstr ""
+
+#: inc/widgets/widgets.php:143
+msgid "enefti - Contact + Social links"
+msgstr ""
+
+#: inc/widgets/widgets.php:143
+msgid "enefti - Contact information + Social icons"
+msgstr ""
+
+#: inc/widgets/widgets.php:257
+msgid "enefti - Contact"
+msgstr ""
+
+#: inc/widgets/widgets.php:257
+msgid "enefti - Contact information"
+msgstr ""
+
+#: inc/widgets/widgets.php:294
+msgid "Contact information"
+msgstr ""
+
+#: inc/widgets/widgets.php:303
+msgid "Contact information must be set from enefti - Theme Panel."
+msgstr ""
+
+#: inc/widgets/widgets.php:328
+msgid "enefti - Recent Posts with thumbnails"
+msgstr ""
+
+#: inc/widgets/widgets.php:394
+msgid "Recent posts"
+msgstr ""
+
+#: inc/widgets/widgets.php:401 inc/widgets/widgets.php:522
+msgid "5"
+msgstr ""
+
+#: inc/widgets/widgets.php:411 inc/widgets/widgets.php:532
+msgid "Number of posts:"
+msgstr ""
+
+#: inc/widgets/widgets.php:449
+msgid "enefti - Post thumbnails slider"
+msgstr ""
+
+#: inc/widgets/widgets.php:515
+msgid "Post thumbnails slider"
+msgstr ""

@@ -29,33 +29,34 @@ $post = get_post($product->get_id());
 ?>
 
 <div data-aos="fade-in" data-aos-duration="500" class="explore-box transition duration-500 border rounded-md style-3 hover:shadow-lg">
-
-	<div class="mb-2 card-images <?php echo $product->get_id(); ?>">
-		<?php if (!empty($image)) : ?>
-			<a href="<?php echo $image[0] ?>" title="" data-lightbox="lightbox[rel--<?php echo $product->get_id() ?>]" data-vc-gitem-zone="prettyphotoLink" class="vc_gitem-link prettyphoto vc-zone-link vc-prettyphoto-link">
-				<img class="w-full md:h-53  object-cover" src="<?php echo $image[0] ?>" alt="<?php echo $product->get_name(); ?>">
-			</a>
-		<?php endif; ?>
-	</div>
-	<div class="p-4 card-wrapper">
-		<div class="card-meta-info">
-			<div class="flex justify-between items-center">
-				<div class="flex-col">
-					<p class="title-text font-bold item-title">"<?php echo $product->get_name(); ?>"</p>
-				</div>
-				<div class="items-center like">
-					<div class="flex items-center">
-						<p class="text-base item-title font-normal text-coolGray-600 ">[1/1]</p>
+	<div class="block-item">
+		<div class="card-images">
+			<?php if (!empty($image)) : ?>
+				<a href="<?php echo $image[0] ?>" title="" data-lightbox="lightbox[rel--<?php echo $product->get_id() ?>]" data-vc-gitem-zone="prettyphotoLink" class="vc_gitem-link prettyphoto vc-zone-link vc-prettyphoto-link">
+					<img class="w-full md:h-53  object-cover" src="<?php echo $image[0] ?>" alt="<?php echo $product->get_name(); ?>">
+				</a>
+			<?php endif; ?>
+		</div>
+		<div class="p-4 card-wrapper">
+			<div class="card-meta-info">
+				<div class="flex justify-between items-center">
+					<div class="flex-col">
+						<p class="title-text font-bold item-title">"<?php echo $product->get_name(); ?>"</p>
+					</div>
+					<div class="items-center like">
+						<div class="flex items-center">
+							<p class="text-base item-title font-normal text-coolGray-600 ">1/1</p>
+						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-		<div class="mb-2 title-text">
-			<span class="item-description">
-				<?php echo $devFunction->get_excerpt_post($post, 4); ?>
-			</span>
-		</div>
+			<div class="mb-2 title-text">
+				<span class="item-description">
+					<?php echo $devFunction->get_excerpt_post($post, 4); ?>
+				</span>
+			</div>
 
+		</div>
 	</div>
 	<?php
 	$likeData = get_post_meta($post->ID, 'like_product', true);

@@ -7,8 +7,21 @@
 }
 .banner-font {
     font-family: seguibli;
-    font-size: 3rem;
+    font-size: 2.5rem;
     line-height: 1.5em;
+}
+.block-banner {
+    margin-top: 21%;
+}
+.with-90 img {
+    width: 90%;
+}
+.btn-banner{
+    color: #44006b;
+    border: 2px solid #000000;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-weight: 700;
 }
 .top-inquiry-button {
   font-size: 15px;
@@ -76,12 +89,13 @@ li.current-menu-item a {
 
 .item-title {
   color: #7e8085;
+  font-size: 14px;
 }
 
 .item-description {
   font-family: sans-serif;
   font-style: italic;
-  font-size: 13px;
+  font-size: 12px;
   color: #868686;
 }
 
@@ -94,4 +108,24 @@ li.current-menu-item a {
 
 .woocommerce nav.woocommerce-pagination ul li, .woocommerce nav.woocommerce-pagination ul li a {
     background-color: white;
+}
+.block-item {
+    height: 90%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.card-images {
+    display: table;
+    height: 300px;
+}
+.card-images img {
+    max-width: 100%;
+    height: auto !important;
+}
+.card-images a {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+}
+.inline-block {
+    font-size: 12px;
 }

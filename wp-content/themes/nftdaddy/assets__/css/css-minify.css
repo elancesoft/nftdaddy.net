@@ -1,0 +1,45 @@
+.show-desktop {
+    display: block
+}
+
+.show-desktop-z {
+    display: block !important
+}
+
+.hide-desktop {
+    display: none
+}
+
+.hide-desktop-z {
+    display: none !important
+}
+
+
+.form-callback-required {
+    max-width: 320px;
+    margin: auto;
+}
+
+
+@media (max-width:768px) {
+
+    .navbar-brand {
+        margin-right: 0
+    }
+
+    .show-mobile {
+        display: block
+    }
+
+    .hide-mobile {
+        display: none
+    }
+
+    .show-mobile-z {
+        display: block !important
+    }
+
+    .hide-mobile-z {
+        display: none !important
+    }  
+}

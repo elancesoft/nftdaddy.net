@@ -1,0 +1,97 @@
+@font-face {
+    font-family: seguibli;
+    src: url(seguibli.ttf);
+}
+.header-logo {
+    width: 20%;
+}
+.banner-font {
+    font-family: seguibli;
+    font-size: 3rem;
+    line-height: 1.5em;
+}
+.top-inquiry-button {
+  font-size: 15px;
+  cursor: pointer;
+  padding: 13px 25px;
+  text-align: center;
+  border: none;
+  text-transform: uppercase;
+  background-image: linear-gradient(
+    to right,
+    #647ecb,
+    #d01498,
+    #d01498,
+    #647ecb
+  );
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  background-size: 300% 100% !important;
+  moz-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+  overflow: visible;
+  color: white;
+}
+.bapf_head {
+  display: none;
+}
+.bapf_sfilter {
+  margin-bottom: 0px !important;
+}
+.pp_pic_holder {
+  background: white;
+}
+.woocommerce-pagination {
+  width: 100%;
+}
+.woocommerce nav.woocommerce-pagination ul {
+  width: 100%;
+  border: 0px;
+}
+.woocommerce-pagination ul li {
+  width: 50%;
+  border-right: 0px !important;
+}
+.woocommerce-pagination ul li:hover,
+.woocommerce-pagination ul li a:hover {
+  background: none !important;
+}
+.woocommerce-pagination ul li.prev {
+  text-align: left;
+}
+.woocommerce-pagination ul li.next {
+  text-align: right;
+}
+.text-bottom {
+  width: 100%;
+  text-align: center;
+}
+
+li.current-menu-item a {
+  --tw-text-opacity: 1;
+  color: rgba(99, 102, 241, var(--tw-text-opacity));
+}
+
+.item-title {
+  color: #7e8085;
+}
+
+.item-description {
+  font-family: sans-serif;
+  font-style: italic;
+  font-size: 13px;
+  color: #868686;
+}
+
+.border-top-shadow {
+  /* border: 1px solid #D1D5DB;
+  -webkit-box-shadow: 0px -4px 3px rgba(209, 213, 219, 0.75);
+  -moz-box-shadow: 0px -4px 3px rgba(209, 213, 219, 0.75);
+  box-shadow: 3px -4px 0px rgba(209, 213, 219, 0.75); */
+}
+
+.woocommerce nav.woocommerce-pagination ul li, .woocommerce nav.woocommerce-pagination ul li a {
+    background-color: white;
+}

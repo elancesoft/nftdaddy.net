@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="14" height="14" transform="translate(1076 2071)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_119" data-name="Mask Group 119" transform="translate(-1076 -2071)" clip-path="url(#clip-path)">
+    <g id="calendar_3_" data-name="calendar(3)" transform="translate(1076 2071)">
+      <g id="Group_161" data-name="Group 161">
+        <path id="Path_230" data-name="Path 230" d="M2.116,14h9.769a1.858,1.858,0,0,0,1.856-1.856V2.893a1.858,1.858,0,0,0-1.856-1.856h-.736V.519a.519.519,0,0,0-1.037,0v.519H3.889V.519a.519.519,0,0,0-1.037,0v.519H2.116A1.858,1.858,0,0,0,.259,2.893v9.25A1.858,1.858,0,0,0,2.116,14ZM1.3,2.893a.821.821,0,0,1,.819-.819h.736v.519a.519.519,0,0,0,1.037,0V2.074h6.222v.519a.519.519,0,0,0,1.037,0V2.074h.736a.821.821,0,0,1,.819.819v9.25a.821.821,0,0,1-.819.819H2.116a.821.821,0,0,1-.819-.819Z" fill="#fff"/>
+        <circle id="Ellipse_115" data-name="Ellipse 115" cx="0.648" cy="0.648" r="0.648" transform="translate(3.37 4.667)" fill="#fff"/>
+        <circle id="Ellipse_116" data-name="Ellipse 116" cx="0.648" cy="0.648" r="0.648" transform="translate(6.222 4.667)" fill="#fff"/>
+        <circle id="Ellipse_117" data-name="Ellipse 117" cx="0.648" cy="0.648" r="0.648" transform="translate(9.074 4.667)" fill="#fff"/>
+        <circle id="Ellipse_118" data-name="Ellipse 118" cx="0.648" cy="0.648" r="0.648" transform="translate(3.37 7.259)" fill="#fff"/>
+        <circle id="Ellipse_119" data-name="Ellipse 119" cx="0.648" cy="0.648" r="0.648" transform="translate(6.222 7.259)" fill="#fff"/>
+        <circle id="Ellipse_120" data-name="Ellipse 120" cx="0.648" cy="0.648" r="0.648" transform="translate(9.074 7.259)" fill="#fff"/>
+        <circle id="Ellipse_121" data-name="Ellipse 121" cx="0.648" cy="0.648" r="0.648" transform="translate(3.37 9.852)" fill="#fff"/>
+        <circle id="Ellipse_122" data-name="Ellipse 122" cx="0.648" cy="0.648" r="0.648" transform="translate(6.222 9.852)" fill="#fff"/>
+        <circle id="Ellipse_123" data-name="Ellipse 123" cx="0.648" cy="0.648" r="0.648" transform="translate(9.074 9.852)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

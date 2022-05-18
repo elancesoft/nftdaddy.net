@@ -54,7 +54,7 @@ if (!empty($exploreList)) :
                         ?>
                         <div class="p-2 flex border-top-shadow items-center justify-between btn-footer-icon relative">
                             <div class="inline-block">
-                                @teyetete
+                                <!-- @teyetete -->
                             </div>
                             <div class="flex like-nft" data-id="<?php echo $value->ID ?>">
                                 <span class="flex items-center justify-center  mr-1 rounded-full h-7 w-7">

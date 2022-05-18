@@ -63,7 +63,7 @@ $post = get_post($product->get_id());
 	?>
 	<div class="p-2 flex border-top-shadow items-center justify-between btn-footer-icon relative">
 		<div class="inline-block">
-			@teyetete
+			<!-- @teyetete -->
 		</div>
 		<div class="flex like-nft" data-id="<?php echo $product->get_id(); ?>">
 			<span class="flex items-center justify-center  mr-1 rounded-full h-7 w-7">
